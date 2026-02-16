@@ -1,12 +1,23 @@
-Hardware Used
+Images Documentation
 
-- ESP32 WROOM-32D
-- LED
-- 220Ω resistor
-- Breadboard
-- Jumper wires
+This directory contains visual documentation of the ESP32 Blynk LED Control project.
 
- Wiring
+ Hardware Setup
+Description:
+- ESP32 WROOM-32D on breadboard
+- LED connected to GPIO2
+- 220Ω resistor to GND
+- Powered via USB
 
-- LED anode → GPIO2
-- LED cathode → 220Ω resistor → GND
+ Blynk Dashboard
+Description:
+- Web-based Blynk IoT dashboard
+- Switch widget mapped to Virtual Pin V0
+- Real-time LED state control
+
+ Purpose
+These images provide:
+- Hardware verification
+- Wiring reference
+- Cloud interface demonstration
+- Functional proof of concept
